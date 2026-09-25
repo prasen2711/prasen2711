@@ -15,7 +15,6 @@ I'm a B.Tech student in **Artificial Intelligence & Machine Learning** at Symbio
 
 - 🔭 Currently working on **RoadEye AI** — an intelligent road condition assessment system using deep learning-based detection & segmentation
 - 📄 Published research on ML/DL techniques for banking fraud detection (AISTS 2025, IEEE-affiliated)
-- 🌱 Exploring Graph Neural Networks and Reinforcement Learning
 - 📫 Reach me at **nikteprasen@gmail.com**
 
 ---
