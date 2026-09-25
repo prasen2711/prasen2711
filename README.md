@@ -13,7 +13,6 @@
 I'm a B.Tech student in **Artificial Intelligence & Machine Learning** at Symbiosis Institute of Technology, Pune, with hands-on experience building end-to-end ML systems — from computer vision pipelines to fraud-detection models to full-stack dashboards. I recently interned as a **Software Development Intern at TCS**, where I built a production-style incident management platform.
 
 
-- 🔭 Currently working on **RoadEye AI** — an intelligent road condition assessment system using deep learning-based detection & segmentation
 - 📄 Published research on ML/DL techniques for banking fraud detection (AISTS 2025, IEEE-affiliated)
 - 📫 Reach me at **nikteprasen@gmail.com**
 
