@@ -56,32 +56,6 @@ I'm a B.Tech student in **Artificial Intelligence & Machine Learning** at Symbio
 
 ---
 
-### 🚀 Featured Projects
-
-**[RoadEye AI — Intelligent Road Condition Assessment System](#)**
-`Python` `PyTorch` `RF-DETR` `SegFormer` `Flutter`
-AI-powered road monitoring system for automated pothole/crack detection using deep learning object detection and segmentation, with a custom Road Health Index (RHI) and a Flutter app for real-time inspection.
-
-**[Credit Card Fraud Detection using ML & DL](#)**
-`Python` `Scikit-Learn` `XGBoost` `LSTM`
-End-to-end fraud detection pipeline comparing Logistic Regression, Random Forest, XGBoost, LSTM, and Autoencoder models, with SMOTE for class imbalance and evaluation via Precision/Recall/F1/ROC-AUC. Basis for a paper presented at **AISTS 2025 (IEEE-affiliated)**.
-
-**[GNN-Based Traffic Forecaster (METR-LA Dataset)](#)**
-`Python` `PyTorch` `Graph Neural Networks`
-Traffic forecasting system modeling road networks as graphs with spatial-temporal dependencies, evaluated using MAE and RMSE.
-
-**[Incident Management System](#)**
-`Angular` `TypeScript` `Supabase`
-Full-stack incident reporting and tracking platform with authentication, role-based access, and real-time dashboards — built during my internship at TCS.
-
-**[Banking Customer Analytics Dashboard](#)**
-`Power BI` `SQL` `Excel`
-Interactive dashboards for customer behavior and transaction trend analysis, with DAX-based KPI models and automated reporting.
-
-> Replace the `#` links above with the actual repo URLs once you pin these projects.
-
----
-
 ### 🎓 Background
 
 - **B.Tech, AI & ML** — Symbiosis Institute of Technology, Pune (2024–2027)
