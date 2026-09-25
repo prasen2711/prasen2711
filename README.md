@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Prasen Nikte 👋</h1>
-<h3 align="center">AI/ML Engineer in the making | Building real-world AI systems | Ex-TCS Intern</h3>
+<h3 align="center">AI/ML Engineer | Building real-world AI systems |</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasen-nikte/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/prasen-nikte-852916438"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nikteprasen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=prasen2711&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
